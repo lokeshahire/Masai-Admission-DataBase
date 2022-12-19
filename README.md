@@ -5,6 +5,7 @@ This is an Individual Project having different facility like add database, add i
 
 
 
+## Tech Stack : ReactJS | ChakraUI | JSON | API | ES6
 
 
 I use here HTML, CSS , LocalStorage, DOM concepts
